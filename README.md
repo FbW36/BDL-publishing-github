@@ -2,5 +2,9 @@
 
 **Instructions**
 * Create a new repository. 
-* Make sure that the repository has a readme file. 
-* Directly edit that readme file on github.
+* Create a readme file. 
+* Directly edit that readme file on github and add:
+    - Your name and age
+    - You favourite color
+    - Your favourite language
+    - A list of your favourite restaurants
